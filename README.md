@@ -6,8 +6,4 @@
 Contact me on Twitter: @aravharish3
 or Discord: Arav#8904 - but please do message me saying you're from Github.
 
-<!---
-aravharish/aravharish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
