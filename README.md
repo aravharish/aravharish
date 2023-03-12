@@ -5,5 +5,5 @@
 - 📫 How to reach me:
 Contact me on Twitter: @aravharish3
 or Discord: Arav#8904 - but please do message me saying you're from Github.
-[![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravharish)](https://github.com/aravharish/github-readme-stats)
+[![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravharish&show_icons=true&theme=cobalt)](https://github.com/aravharish/github-readme-stats)
 
