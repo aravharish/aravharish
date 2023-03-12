@@ -40,3 +40,10 @@ or Discord: Arav#8904 - but please do message me saying you're from Github.
 [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravharish&show_icons=true&theme=transparent)](https://github.com/aravharish/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravharish&" alt="aravharish" /></p>
+<br> 
+<h3 align="center"> Profile Views: </h3>
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/aravharish/count.svg)<br>
+
+</div>
