@@ -8,6 +8,6 @@ or Discord: Arav#8904 - but please do message me saying you're from Github.
 <br></br>
 <br></br>
 <br></br>
-<div align="left">
+
 [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravharish&show_icons=true&theme=transparent)](https://github.com/aravharish/github-readme-stats)
-</div>
+
