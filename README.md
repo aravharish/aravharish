@@ -14,12 +14,6 @@ or Discord: Arav#8904 - but please do message me saying you're from Github.
 <h1 align="center">Hi 👋, I'm Aravindhan</h1>
 <h3 align="center">A computer science student, from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravharish&label=Profile%20views&color=0e75b6&style=flat" alt="aravharish" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravharish" alt="aravharish" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aravharish3" target="blank"><img src="https://img.shields.io/twitter/follow/aravharish3?logo=twitter&style=for-the-badge" alt="aravharish3" /></a> </p>
-
 - 🔭 I’m currently working on **Logging Framework Microservice**
 
 - 🌱 I’m currently learning **Frontend Development, Flutter, Spring Boot**
