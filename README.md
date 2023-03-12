@@ -38,8 +38,9 @@ or Discord: Arav#8904 - but please do message me saying you're from Github.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravharish&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aravharish" /></p>
 
 [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravharish&show_icons=true&theme=transparent)](https://github.com/aravharish/github-readme-stats)
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravharish&" alt="aravharish" /></p>
+ </div>
 <br> 
 <h3 align="center"> Profile Views: </h3>
 <div align="center">
