@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Aravindhan</h1>
+<h3 align="center">A computer science student, from India.</h3>
+
 - 👋 Hi, I’m Arav, I go by @aravharish or @actimony online, so if we've ever crossed paths, feel free to connect with me!
 - 👀 I’m interested in Statistics, Computer Science, Mathematics and Science, my thirst for knowledge is one that's unquenchable.
 - 🌱 I’m currently learning Python Programming, doing extra research on C and SQL.
@@ -5,20 +8,10 @@
 - 📫 How to reach me:
 Contact me on Twitter: @aravharish3
 or Discord: Arav#8904 - but please do message me saying you're from Github.
+
 <br></br>
 <br></br>
 <br></br>
-
-[![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravharish&show_icons=true&theme=transparent)](https://github.com/aravharish/github-readme-stats)
-
-<h1 align="center">Hi 👋, I'm Aravindhan</h1>
-<h3 align="center">A computer science student, from India.</h3>
-
-- 🔭 I’m currently working on **Logging Framework Microservice**
-
-- 🌱 I’m currently learning **Frontend Development, Flutter, Spring Boot**
-
-- 👯 I’m looking to collaborate on **Data Science, App Development, Web Development Projects**
 
 - ⚡ Fun fact: I seem to remember every topic down to the minute details, other than academics. Still don't know why.
 <h3 align="left">Connect with me:</h3>
