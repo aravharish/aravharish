@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aravindhan</h1>
+<h1 align="center">Hi 👋, I'm Arav</h1>
 <h3 align="center">A computer science student, from India.</h3>
 
 - 👋 Hi, I’m Arav, I go by @aravharish or @actimony online, so if we've ever crossed paths, feel free to connect with me!
