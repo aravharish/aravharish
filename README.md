@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arav</h1>
 <h3 align="center">A computer science student, from India.</h3>
 
-- 👋 Hi, I’m Arav, I go by @aravharish or @actimony online, so if we've ever crossed paths, feel free to connect with me!
+- 👋 Hi, I’m Arav, I go by @aravharish online, so if we've ever crossed paths, feel free to connect with me!
 - 👀 I’m interested in Statistics, Computer Science, Mathematics and Science, my thirst for knowledge is one that's unquenchable.
 - 🌱 I’m currently learning Flutter & Dart, C, Python, Java and SQL.
 - 💞️ I’m looking to collaborate on projects that have vast statistical analysis involved, anything related to machine learning or data science intrigues me.
