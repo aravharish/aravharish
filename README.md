@@ -20,9 +20,9 @@ or Discord: Arav#8904 - but please do message me saying you're from Github.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravharish&layout=compact)](https://github.com/aravharish/github-readme-stats)
 
-<div align="center">
+
 [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravharish&show_icons=true&theme=transparent)](https://github.com/aravharish/github-readme-stats)
-</div>
+
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravharish&" alt="aravharish" /></p>
  </div>
